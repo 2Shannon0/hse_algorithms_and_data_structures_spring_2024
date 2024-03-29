@@ -1,0 +1,7 @@
+5	AaBbCcDdEe
+11	FfGgHhIiJj
+22	KkLlMmNnOo
+33	PpQqRrSsTt
+40	UuVvWwXxYy
+45	Zz
+50	FfEeDdCcBb
