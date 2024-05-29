@@ -30,5 +30,5 @@ class TestSortData(unittest.TestCase):
     def test4(self):
         self.radix_sort_test("4-input.txt", "4-expected-output.txt")
 
-#     def test5(self):
-#         self.radix_sort_test("5-input.txt", "5-expected-output.txt")
+    def test5(self):
+        self.radix_sort_test("5-input.txt", "5-expected-output.txt")
