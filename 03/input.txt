@@ -1,0 +1,5 @@
++ word 34
+word
+- word
+! Save ./dictionary1.txt
+! Load ./dictionary2.txt
