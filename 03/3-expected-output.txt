@@ -1,0 +1,7 @@
+OK
+OK: 42
+OK
+OK: 84
+OK
+NoSuchWord
+OK

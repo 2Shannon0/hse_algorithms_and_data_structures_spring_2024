@@ -1,0 +1,7 @@
++ apple 42
+apple
++ banana 84
+BANANA
+- Apple
+APPLE
+- banana
